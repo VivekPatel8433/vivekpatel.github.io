@@ -118,7 +118,7 @@ span{
 }
 .btn {
     display: block;
-    padding: 1rem 15rem;
+    padding: 1rem 2rem;
     background: var(--main-color);
     border-radius: 2rem;
     box-shadow: 1rem var(--main-color);

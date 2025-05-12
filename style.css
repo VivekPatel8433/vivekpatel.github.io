@@ -33,7 +33,7 @@ section{
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: var(--bg-color);
+    background-color:#488cb7;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -240,7 +240,6 @@ span{
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem 0%;
-    background-color: var(--snd-bg-colorr);
 }
 .footer p {
     font-size: 2rem;
@@ -250,9 +249,10 @@ span{
     justify-content: right;
     align-items: center;
     padding: .8rem 1rem;
-    background: var(--main-color);
+    background: #cfc930;
     border-radius: .8rem;
     transition: .5s ease;
+     margin-left: 90%;
 }
 .footer-iconTop a:hover{
     box-shadow: 0 0 1rem var(--main-color);
